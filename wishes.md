@@ -4,6 +4,7 @@
 + [ ] Fusion shorts (ikke bukser)
 + [ ] T-shirt uden logo, grøn, rød, eller pastel, str. Large
 + [ ] Tapasbræt
++ [ ] buff "halsedisse"
 
 ## Bøger
 + [ ] Everyday matters - Danny Gregory
